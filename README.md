@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**dssalaza/dssalaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a little bit about me:
 
-Here are some ideas to get you started:
+- 🌍 Based in Guayaquil, Ecuador.
+- 💼 Working as a Quality Analyst Consultant.
+- 🎯 Looking for work as a QA, DevOps or Backend developer. [email me!](mailto:dssalaza@gmail.com)
+- 🛠 Mostly code in Java, Python and Shell scripting.
+- 🤖 Working on CI/CD pipelines and automation tools.
+- 📫 Find me on: [twitter](https://twitter.com/Davidssv) · [linkedin](https://www.linkedin.com/in/david-salazarv/) · [email](mailto:dssalaza@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <a href="https://github.com/dssalaza">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dssalaza&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dssalaza&layout=compact&theme=vue">
+</a>
+
+
