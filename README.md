@@ -4,7 +4,7 @@ Here's a little bit about me:
 
 - 🌍 Based in Guayaquil, Ecuador.
 - 💼 Working as a Quality Analyst Consultant.
-- 🎯 Looking for work as a QA, DevOps or Backend developer. [email me!](mailto:dssalaza@gmail.com)
+- 🎯 Looking for work as a QA, SDET, DevOps or Backend developer. [email me!](mailto:dssalaza@gmail.com)
 - 🛠 Mostly code in Java, Python and Shell scripting.
 - 🤖 Working on CI/CD pipelines and automation tools.
 - 📫 Find me on: [twitter](https://twitter.com/Davidssv) · [linkedin](https://www.linkedin.com/in/david-salazarv/) · [email](mailto:dssalaza@gmail.com)
