@@ -2,7 +2,7 @@
 
 Here's a little bit about me:
 
-- 🌍 Based in Guayaquil, Ecuador.
+- 🌍 Based in Vancouver.
 - 💼 Working as a Quality Analyst Consultant.
 - 🎯 Looking to work as a QA, SDET, DevOps or Backend developer. [email me!](mailto:dssalaza@gmail.com)
 - 🛠 Currently learning JS and TS but mostly proficient in Java and Shell scripting.
