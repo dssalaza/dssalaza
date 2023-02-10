@@ -3,7 +3,7 @@
 Here's a little bit about me:
 
 - 🌍 Based in Vancouver.
-- 💼 Working as a Quality Analyst Consultant.
+- 💼 Working as a Test Automation Engineer.
 - 🎯 Looking to work as a QA, SDET, DevOps or Backend developer. [email me!](mailto:dssalaza@gmail.com)
 - 🛠 Currently learning JS and TS but mostly proficient in Java and Shell scripting.
 - 🤖 Working on CI/CD pipelines and automation tools.
